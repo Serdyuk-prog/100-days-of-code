@@ -5,3 +5,9 @@
 **Today's Progress**: I've continued Udemy course called "The Web Developer Bootcamp" by Colt Steele. I've finished a section on the basics of Mongoose, learned about mongoose validations, instance and static model methods. Also, I now know about virtual properties and middleware in mongoose.
 
 **Thoughts:** I am very happy that I found out about this challenge, because I really need that sort of pressure to study more.
+
+
+### Day 2: January 30 2022, Sunday
+
+**Today's Progress**: Still following the Udemy course. Today I started learning about combining Express and Mongoose together.
+
