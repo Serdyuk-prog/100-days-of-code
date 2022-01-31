@@ -11,3 +11,8 @@
 
 **Today's Progress**: Still following the Udemy course. Today I started learning about combining Express and Mongoose together.
 
+
+### Day 3: January 31 2022, Monday
+
+**Today's Progress**: Today I learned how to implement basic CRUD functionality with Express and Mongoose.
+
