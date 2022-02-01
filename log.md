@@ -16,3 +16,7 @@
 
 **Today's Progress**: Today I learned how to implement basic CRUD functionality with Express and Mongoose.
 
+### Day 4: February 1 2022, Tuesday
+
+**Today's Progress**: Today I started an training project featured in "The Web Developer Bootcamp" by Colt Steele. This project compiles all topics that I learned while studying this course.
+
