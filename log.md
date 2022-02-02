@@ -18,5 +18,9 @@
 
 ### Day 4: February 1 2022, Tuesday
 
-**Today's Progress**: Today I started an training project featured in "The Web Developer Bootcamp" by Colt Steele. This project compiles all topics that I learned while studying this course.
+**Today's Progress**: Today I started a training project featured in "The Web Developer Bootcamp" by Colt Steele. This project compiles all topics that I learned while studying this course.
+
+### Day 5: February 2 2022, Wednesday
+
+**Today's Progress**: Still coding a training project. Today I implemented full CRUD functionality to the app!
 
