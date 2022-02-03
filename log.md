@@ -24,3 +24,8 @@
 
 **Today's Progress**: Still coding a training project. Today I implemented full CRUD functionality to the app!
 
+### Day 6: February 3 2022, Thursday
+
+**Today's Progress**: Today I learned the basics of Flask.
+
+
