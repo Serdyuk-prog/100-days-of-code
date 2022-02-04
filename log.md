@@ -28,4 +28,8 @@
 
 **Today's Progress**: Today I learned the basics of Flask.
 
+### Day 7: February 3 2022, Thursday
+
+**Today's Progress**: Today I learned about middleware in Express!
+
 
