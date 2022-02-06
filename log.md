@@ -28,8 +28,12 @@
 
 **Today's Progress**: Today I learned the basics of Flask.
 
-### Day 7: February 3 2022, Thursday
+### Day 7: February 4 2022, Friday
 
 **Today's Progress**: Today I learned about middleware in Express!
+
+### Day 8: February 6 2022, Sunday
+
+**Today's Progress**: Today I learned about pjs-mate for Express templating and added basic styling to the training project using Bootstrap.
 
 
