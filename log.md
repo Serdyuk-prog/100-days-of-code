@@ -16,24 +16,43 @@
 
 **Today's Progress**: Today I learned how to implement basic CRUD functionality with Express and Mongoose.
 
+
 ### Day 4: February 1 2022, Tuesday
 
 **Today's Progress**: Today I started a training project featured in "The Web Developer Bootcamp" by Colt Steele. This project compiles all topics that I learned while studying this course.
+
 
 ### Day 5: February 2 2022, Wednesday
 
 **Today's Progress**: Still coding a training project. Today I implemented full CRUD functionality to the app!
 
+
 ### Day 6: February 3 2022, Thursday
 
 **Today's Progress**: Today I learned the basics of Flask.
+
 
 ### Day 7: February 4 2022, Friday
 
 **Today's Progress**: Today I learned about middleware in Express!
 
+
 ### Day 8: February 6 2022, Sunday
 
 **Today's Progress**: Today I learned about pjs-mate for Express templating and added basic styling to the training project using Bootstrap.
+
+
+### Day 9: February 7 2022, Monday
+
+**Today's Progress**: I finished a product landing page project for freeCodeCamp "Responsive Web Design Certification"!
+
+
+### Day 10: February 8 2022, Tuesday
+
+**Today's Progress**: Today I learned about error handling in Express!
+
+
+
+
 
 
