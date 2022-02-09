@@ -52,6 +52,12 @@
 **Today's Progress**: Today I learned about error handling in Express!
 
 
+### Day 11: February 9 2022, Wednesday
+
+**Today's Progress**: Today I learned how to handle Async Errors in Express!
+
+
+
 
 
 
