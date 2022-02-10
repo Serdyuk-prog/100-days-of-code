@@ -57,6 +57,11 @@
 **Today's Progress**: Today I learned how to handle Async Errors in Express!
 
 
+### Day 12: February 10 2022, Thursday
+
+**Today's Progress**: Today I added client-side form validations and async error handling to the training project!
+
+
 
 
 
