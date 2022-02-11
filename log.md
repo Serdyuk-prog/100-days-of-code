@@ -62,7 +62,7 @@
 **Today's Progress**: Today I added client-side form validations and async error handling to the training project!
 
 
-### Day 12: February 11 2022, Friday
+### Day 13: February 11 2022, Friday
 
 **Today's Progress**: Today I added schema validations to the training project using joi
 
