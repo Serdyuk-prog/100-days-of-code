@@ -67,6 +67,12 @@
 **Today's Progress**: Today I added schema validations to the training project using joi
 
 
+### Day 14: February 12 2022, Saturday
+
+**Today's Progress**: Today I learned how to define data relationships with MongoDB.
+
+
+
 
 
 
