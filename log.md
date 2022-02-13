@@ -72,6 +72,11 @@
 **Today's Progress**: Today I learned how to define data relationships with MongoDB.
 
 
+### Day 15: February 13 2022, Sunday
+
+**Today's Progress**: Still following the Udemy course. Today I learned how to implement MongoDB data relationships in Express app and also how to delete with Mongo middleware!
+
+
 
 
 
