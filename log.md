@@ -77,6 +77,11 @@
 **Today's Progress**: Still following the Udemy course. Today I learned how to implement MongoDB data relationships in Express app and also how to delete with Mongo middleware!
 
 
+### Day 16: February 15 2022, Tuesday
+
+**Today's Progress**: Today I started adding a review feature to the training project.
+
+
 
 
 
