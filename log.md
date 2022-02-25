@@ -82,9 +82,23 @@
 **Today's Progress**: Today I started adding a review feature to the training project.
 
 
+### Day 17: February 17 2022, Thursday
+
+**Today's Progress**: Learned more about the child_process module in NodeJS.
 
 
+### Day 18-21: February 2022 
+
+**Today's Progress**: During that pretty big period of time I was programming some tasks at my internship (mostly in NodeJS) and today I started building a Technical Documentation Page for my Responsive Web Design certification on freeCodeCamp
 
 
+### Day 22: February 22 2022, Tuesday
+
+**Today's Progress**: I finished building the Technical Documentation Page for my Responsive Web Design certification on freeCodeCamp!
+https://codepen.io/serdyuk-prog/pen/ZEaooMV
 
 
+### Day 23: February 15 2022, Wednesday
+
+**Today's Progress**: Today I wrote my first ASP NET Core app
+and started learning the Model-View-Controller pattern. Here is the video I watched: https://youtu.be/Pi46L7UYP8I
